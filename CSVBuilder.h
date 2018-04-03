@@ -6,7 +6,7 @@
 //  https://github.com/Tricertops/CSVBuilder
 //
 //  The MIT License (MIT)
-//  © Martin Kiss
+//  Copyright © Martin Kiss
 //
 
 @import Foundation;

@@ -16,6 +16,8 @@
 		5B00A88F206803E500240B82 /* CSVBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CSVBuilder.h; sourceTree = "<group>"; };
 		5B00A891206803EF00240B82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B00A8922068040C00240B82 /* CSVBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSVBuilder.swift; sourceTree = "<group>"; };
+		5B19FBC62073B605004A6C04 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5B19FBC72073B605004A6C04 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +35,8 @@
 			isa = PBXGroup;
 			children = (
 				5B00A891206803EF00240B82 /* Info.plist */,
+				5B19FBC62073B605004A6C04 /* README.md */,
+				5B19FBC72073B605004A6C04 /* LICENSE.md */,
 				5B00A88E206803CA00240B82 /* Sources */,
 				5B00A8842068038100240B82 /* Products */,
 			);
