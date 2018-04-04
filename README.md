@@ -8,6 +8,8 @@ Complete solution for producing CSV files (comma-separated values).
 - Supports optional column titles as the first table row.
 - Closure-based or Array-based initializers.
 
+Written in Swift, **not** compatible with Objective-C.
+
 How to use
 ------------------------------
 
