@@ -77,9 +77,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5B00A88B2068038100240B82 /* Build configuration list for PBXNativeTarget "CSVBuilder" */;
 			buildPhases = (
+				5B00A8802068038100240B82 /* Headers */,
 				5B00A87E2068038100240B82 /* Sources */,
 				5B00A87F2068038100240B82 /* Frameworks */,
-				5B00A8802068038100240B82 /* Headers */,
 				5B00A8812068038100240B82 /* Resources */,
 			);
 			buildRules = (
