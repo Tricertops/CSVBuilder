@@ -97,8 +97,9 @@
 		5B00A87A2068038000240B82 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				BuildIndependentTargetsInParallel = YES;
 				CLASSPREFIX = CSV;
-				LastUpgradeCheck = 1499;
+				LastUpgradeCheck = 1520;
 				ORGANIZATIONNAME = Tricertops;
 				TargetAttributes = {
 					5B00A8822068038100240B82 = {
